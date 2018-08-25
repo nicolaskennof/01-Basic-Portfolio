@@ -164,20 +164,8 @@ blockquote {
     border-left: 10px solid #cccccc;
     margin: 10px;
     padding: 10px;
-    quotes: "\201C""\201D""\2018""\2019";
     font-size: 14px;
-  }
-
-  blockquote:before {
-    color: #cccccc;
-    content: open-quote;
-    font-size: 80px;
-    line-height: 16px;
-    margin-right: 10px;
-    vertical-align: -30px;
-  }
-  blockquote p {
-    display: inline;
+    font-style: italic;
   }
 
 /* Portfolio specific CSS */
