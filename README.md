@@ -1,2 +1,3 @@
 # Basic-Portfolio
-Homework 1 - Building a Wireframe
+
+Deployed project: https://nicolaskennof.github.io/01-Basic-Portfolio/
